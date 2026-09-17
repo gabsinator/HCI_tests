@@ -1,0 +1,53 @@
+1.) Antwort: 
+A. Activities establish requirements for technologies → Start from what must be supported.
+B. Contexts establish requirements → Account for where and under which conditions use happens.
+C. Technologies offer new ways to undertake activities → Consider Opportunities, not only constraints.
+D. Design within a sphere of activity → Fit solutions to a domain of practice.
+E. Technology changes people's activities → Expect feedback effects after introducing a system.
+
+2.) Antwort: 
+- Tracing a work product through use can be helpful
+- Artifacts provide additional insight into the task
+
+3.) Antwort: 
+- Safety criticality: what happens if something goes wrong
+- Temporal aspects such as timing and frequency
+
+4.) Antwort: It describes user activity without committing to buttons, menus, screens, or sensors.
+
+5.) Antwort: A conceptual scenario. 
+
+6.) Antwort: Concrete scenario, because it suggests particular UI elements and function allocation.
+
+7.) Antwort: 
+A. Regular or infrequent? → Frequency of use and learnability burden.
+B. Peaks and troughs? → Queueing, throughput, and capacity.
+C. Interruptible? → Need for state recovery and clear progress.
+D. Safety critical? → Consequences of errors or failures.
+E. Mental model to engender? → How people should understand the machine and task.
+
+8.) Antwort: 
+A. Interpreting symbols and components → Necessary to infer how the system can be used.
+B. Functionality of the device vs. desired action → Match between what is possible and what the user wants.
+C. Semantic distance → Gap between user intention and system meaning.
+D. Articulatory distance → Gap between intended action and physical expression.
+E. Norman adopting Gibson's concept → Affordance becomes central for perceived use.
+
+9.) Antwort: 
+A. Estimate how long a pointing action will take. → Fitts law / physical model
+B. Explain why users misinterpret a system state. → Mental models and mapping
+C. Find where a user cannot discover the next possible action. → EEAC gulf of execution
+D. Represent ordered work steps and alternatives. → HTA (Hierarchical Task Analysis)
+E. Compute expert execution time from low-level actions. → KLM (Keystroke-Level Model)
+
+10.) Antwort: The design may involve both decision complexity and pointing effort, so Hick's and Fitts' laws can be considered together.
+
+11.) Antwort: A constraint guides the user and minimizes invalid choices.
+
+12.) Antwort: Use the keyboard shortcut ALT+F4.
+
+13.) Antwort: 
+- Selection rules predict which method is used based on context.
+- Methods are sequences of operators or subgoals for accomplishing a goal.
+
+14.) Antwort: The overall goal is not yet achieved before the card is collected, so the user remains engaged.

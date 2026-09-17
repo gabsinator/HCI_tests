@@ -1,0 +1,59 @@
+Fovea, Retina & Colour Perception
+A. The highest visual resolution is located in the fovea. → Richtig
+B. Rods are mainly responsible for colour perception. → Falsch
+C. Cones are located predominantly in the central retina and are important for colour vision. → Richtig
+D. In the outermost periphery, colour perception is best. → Falsch
+E. In the very central area, there are no blue colour receptors. → Richtig
+F. The fovea is identical to the blind spot. → Falsch
+
+Primary Depth Cues
+A. Retinal disparity arises because the two eyes receive slightly different images. → Richtig
+B. Stereopsis combines the different images from both eyes into a three-dimensional experience. → Richtig
+C. Motion parallax is a primary depth cue. → Falsch
+D. Texture gradient is a primary depth cue. → Falsch
+E. Accommodation is a secondary depth cue. → Falsch
+F. Convergence is a colour model. → Falsch
+
+Additive & Subtractive Colour
+A. Additive colour mixing concerns light sources, for example displays. → Richtig
+B. Subtractive colour mixing concerns printed colours on materials, where parts of the light are reflected or absorbed. → Richtig
+C. According to the slides, subtractive colours are generally glossier than additive colours. → Falsch
+D. Additive colour information should never be embedded in a bright environment. → Falsch
+E. Additive colour mixing is typical for printing on paper. → Falsch
+F. Subtractive colour arises through differences in decibels. → Falsch
+
+Auditory Perception
+A. Transduction translates sound vibrations into neural impulses. → Richtig
+B. Auditory grouping includes segregation into streams and integration into coherent streams. → Richtig
+C. Scene analysis and interpretation belong to the four stages of auditory perception. → Richtig
+D. Auditory grouping is based exclusively on colour. → Falsch
+E. In auditory perception, the first two processes of auditory grouping cannot ignore sounds. → Falsch
+F. MP3 is explained in the chapter as an example of visual compression. → Falsch
+
+Visual Perception Areas
+- Foveal perception → Detail and sharpness perception are best in this area.
+- Peripheral perception → People react particularly sensitively to movement outside the main focus.
+- Tunnel effect → Stimuli outside the focus can be ignored despite the sensitivity to them.
+- Cognitive reconstruction → Missing information is supplemented based on experience and previous images.
+
+Depth in 2D Interfaces
+- One window overlaps another window. → Overlap
+- An object with a shadow appears three-dimensional. → Light and shade
+- Similar objects are displayed in smaller sizes. → Relative size
+- The background pattern becomes denser towards the back. → Texture gradient
+
+Vision & Hearing in Interfaces
+- Can indicate where the eyes should look. → Audio
+- Information often remains visibly available. → Vision
+- Can be perceived faster than visual cues. → Audio
+- Can originate from outside the field of view. → Audio
+
+Continuity & Common Fate
+A. Continuity and Common Fate → Richtig
+B. Subtractive colour and presbyopia → Falsch
+C. Area principle and decibel → Falsch
+D. Hue and chroma → Falsch
+
+Gestalt Laws
+1 → Proximity
+2 → Similarity

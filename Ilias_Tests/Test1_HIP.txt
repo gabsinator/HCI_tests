@@ -1,0 +1,21 @@
+Frage 1: Antwort: Selektive Fehler basieren auf der absichtlichen Wahl der falschen Quelle; fokussierte Fehler auf unabsichtlichen externen Einflüssen.
+
+Frage 2: Antwort: 1) selective attention     2) focused attention     3) divided attention     4) divided attention
+  (man muss immer "attention" dazu schreiben sonst gibt es keine Punkte)
+
+Frage 3: Antwort: Free-response Paradigm
+
+Frage 4: Antwort:
+- Episodisches/autobiografisches Gedächtnis nimmt mit dem Alter ab.
+- Prozedurales Gedächtnis bleibt mit dem Alter gleich, abgesehen von körperlicher Verfassung.
+- Semantisches Gedächtnis bleibt mit dem Alter erhalten oder verbessert sich.
+
+Frage 5: Antwort: Miss (False Negative)
+
+Frage 6: Antwort: TP / (TP + FP)
+
+Frage 7: Antwort: 7
+
+Frage 8: Antwort: Bei sehr seltenen Ereignissen (z.B. Signalrate 0,1%).
+
+Frage 9: Antwort: 1) Recognition     2) Recognition     3) Recall     4) Recall

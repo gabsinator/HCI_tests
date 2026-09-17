@@ -1,0 +1,86 @@
+1.) Best practices
+Which of the following are considered "best practices" or guidelines for the design of a usability questionnaire? (Select all that apply)
+- Use very long questionnaires to ensure every possible detail is covered. (False)
+- Split compound sentences into two separate questions. (True)
+- Provide clear instructions on how to complete the questionnaire. (True)
+- Avoid jargon and language that the interviewee may not understand. (True)
+- Give the option for "free" comments at the end. (True)
+
+2.9 ESM
+What is a central advantage of ESM compared with a single retrospective questionnaire?
+Answer: It captures experience closer to the situation.
+
+3.) Ethnography
+Match the ethnographic element to its meaning:
+- Participant observation -> Researcher observes while engaging with context
+- Interviews -> Method for eliciting participant perspectives
+- Immersion in culture -> Experiencing participant and context from within
+- Comments, incidents, artifacts -> Materials collected for analysis
+
+4.) Experience Studies
+What are the characteristics or goals of "Experience Studies" within Ubicomp field studies? (Select all that apply)
+- Using the Experience Sampling Method (ESM) to collect data throughout the day. (True)
+- Understanding how technology use changes people's behavior over a long period. (True)
+- Verifying if a new technology functions technically in the real world. (False)
+- Conducting a short, 15-minute controlled lab session. (False)
+
+5.) Expert inspection
+In expert inspections without users, which problems are highlighted as major risks? (Select all that apply)
+- Many trivial problems are often identified. (True)
+- Expert biases can distort problem prioritization. (False)
+- Detailed user journey documentation is required. (False)
+- Findings cannot be replicated by other experts. (False)
+- Important problems may be missed. (True)
+
+6.) Human Memory
+Match the evaluation method to the primary type of human memory it accesses based on the lecture's memory model:
+- Interviews asking for recall of a past situation -> Episodic Memory
+- Think Aloud Protocol -> Working Memory
+- Observation of practiced task execution -> Procedural Memory
+- Questionnaires asking for general facts -> Semantic Memory
+
+7.) Iterative design process
+Within an iterative design process, what is the specific relationship between a summative evaluation of version 'n' and a formative evaluation of version 'n+1'?
+Answer: A summative evaluation of one design often serves as a formative evaluation for the next development step.
+
+8.) Mental Workload
+Match the criterion for creating a measure of mental workload to its corresponding methodological concern:
+- Reliability -> Same estimate for same task and operator
+- Selectivity -> Avoids influence of unrelated factors
+- Sensitivity -> Detects changes in task demand
+- Diagnosticity -> Indicates cause of workload variation
+
+9.) NASA-TLX
+What is the primary methodological purpose of the second step in the NASA Task Load Index (NASA-TLX), which involves 15 pairwise comparisons?
+Answer: To weight the workload dimensions according to which factors the participant considers most important for the specific task.
+
+10.) Sampling Strategy
+Match the sampling strategy to its correct definition.
+- Random Sampling -> Everyone in a list has an equal probability of being selected.
+- Stratified Sampling -> Selection ensures participants reflect the distribution (e.g., gender) of the target population.
+- Systematic Sampling -> Participants are chosen based on a predefined criterion, such as every 10th person.
+- Sample of Convenience -> Participants are selected because they are easily available.
+
+11.) Secondary Task study
+Which of the following outcomes are mentioned in the lecture as indicators associated with increased workload in secondary-task performance? (Select all that apply)
+- Increased variability in a rhythmic tapping task. (True)
+- A decline in the degree of randomness in a random number generation task. (True)
+- Increased reaction time to a probe stimulus. (True)
+- Reduced accuracy in the secondary task. (True)
+
+12.) Ubicomp field study
+Match the Ubicomp field study type to its corresponding result or goal:
+- Experience studies -> Understanding behavioral change over a long period (weeks/months)
+- Studies of current behavior -> Better understanding of current technology use and future implications
+- Proof-of-concept studies -> Validation of whether a new technology functions in the real world
+
+13.) Validity
+If a researcher is concerned that their laboratory conditions do not sufficiently reflect the "real-world" context of the users, which specific type of validity is being questioned?
+Answer: Ecological Validity (Note: External Validity is also highly related, but Ecological specifically targets the setting).
+
+14.) Variables
+When designing a study, which of the following are considered "extraneous" or "confounding" variables that can distort results if not controlled? (Select all that apply)
+- The attitude or bias of the interviewer toward the system. (True)
+- The participant's prior knowledge about the system being tested. (True)
+- Environmental factors like room temperature or noise levels during an interview. (True)
+- The independent variable manipulated by the researcher. (False)

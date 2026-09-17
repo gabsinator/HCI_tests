@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HCI Exam Trainer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button id="homeBtn" class="brand" type="button">HCI&nbsp;Exam Trainer</button>
+  <div class="spacer"></div>
+  <span id="crumb" class="crumb"></span>
+  <button id="themeBtn" class="icon-btn" type="button" title="Toggle dark mode">◐</button>
+</header>
+
+<!-- ------------------------------------------------------------ menu -->
+<main id="menu" class="view">
+  <h1>Choose a test</h1>
+  <p class="lede">Four Ilias tests from the HCI lecture (SS26). Answer everything, hand it in, and you get a score plus the solution for every question.</p>
+
+  <div id="testList" class="cards"></div>
+
+  <section class="settings">
+    <label class="switch">
+      <input type="checkbox" id="optShuffleQ"> <span>Shuffle question order</span>
+    </label>
+    <label class="switch">
+      <input type="checkbox" id="optShuffleA" checked> <span>Shuffle answer options</span>
+    </label>
+    <button id="resetScores" class="link-btn" type="button">Reset saved scores</button>
+  </section>
+</main>
+
+<!-- ------------------------------------------------------------ quiz -->
+<main id="quiz" class="view hidden">
+  <div class="progress"><div id="progressBar"></div></div>
+  <nav id="dots" class="dots"></nav>
+
+  <article id="qCard" class="qcard"></article>
+
+  <footer class="navbar">
+    <button id="prevBtn" class="btn ghost" type="button">← Back</button>
+    <span id="qCounter" class="counter"></span>
+    <button id="nextBtn" class="btn" type="button">Next →</button>
+    <button id="submitBtn" class="btn primary hidden" type="button">Hand in test</button>
+  </footer>
+</main>
+
+<!-- ------------------------------------------------------------ result -->
+<main id="result" class="view hidden">
+  <section class="scorebox">
+    <div id="scoreRing" class="ring"><span id="scorePct">0%</span></div>
+    <div>
+      <h1 id="scoreTitle">Result</h1>
+      <p id="scoreLine" class="lede"></p>
+      <div class="row">
+        <button id="retryBtn" class="btn primary" type="button">Try again</button>
+        <button id="menuBtn" class="btn ghost" type="button">Other test</button>
+      </div>
+    </div>
+  </section>
+  <div id="review" class="review"></div>
+</main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
